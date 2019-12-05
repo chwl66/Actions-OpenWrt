@@ -10,3 +10,6 @@
 
 echo '下载ServerChan'
 git clone https://github.com/tty228/luci-app-serverchan ../diy/luci-app-serverchan
+
+echo '集成diy目录'
+ln -s ../../diy ./package/openwrt-packages
