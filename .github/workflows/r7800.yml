@@ -5,7 +5,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt_x86
+name: Build OpenWrt_r7800
 
 on: 
   release:
